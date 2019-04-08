@@ -5,6 +5,6 @@ This is an astonishingly well-specced and well-priced chip (see the datasheet in
 
 I couldn't find a footprint, so working on the shoulders of others, I came up with this.
 
-Status: Untested (I will flip this after my first successful board)
+Status: TESTED
 
 Happy Hacking!
